@@ -1,7 +1,3 @@
-
-
-
-
 <h1 align="center">🚧🚀Curso Posicionando elementos com Flexbox em CSS 🚀🚧</h1>
 
 Esse curso está dentro do Bootcamp do Santander 2022
