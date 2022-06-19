@@ -1,0 +1,31 @@
+body{
+    background-color: #fafafa;
+}
+
+.flex-container{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    list-style: none;
+}
+
+.flex-item{
+    background: blue;
+    height: 50px;
+    width: 50px;
+    line-height: 50px;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    margin: 5px;
+    border-radius: 50px;
+}
+
+.row{ /*Esse e o padrão*/
+    flex-direction: row;
+}
+
+.row-reverse li{
+    background-color: orange;
+    flex-direction: row-reverse;
+}
