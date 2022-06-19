@@ -1,2 +1,3 @@
-# Posicionando-Flexbox-css-DIO
-Curso - Posicionando elementos com Flexbox em CSS
+Curso Posicionando elementos com Flexbox em CSS 
+
+Esse curso está dentro do Bootcamp do Santander 2022
